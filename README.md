@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @UlzhanKoken ( Kokenova Ulzhan )
-- 👀 I’m interested in frontend development, c# and python
+- 👀 I’m interested in frontend development, c# , python and marketing
 - 🌱 I’m currently learning asp.net
 - 📫 you can also follow me on codewars
 - My WORKS below
