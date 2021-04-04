@@ -10,3 +10,5 @@ UlzhanKoken/UlzhanKoken is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 Улжан Кокенова
+codewars profile:
+https://www.codewars.com/users/UlzhanKoken
